@@ -1,0 +1,51 @@
+<h1>Segurança da informação com Python</h1>
+
+<h3>1 - Introdução aos conceitos de Segurança da Informação e Ping</h3>
+
+- Por que Python?
+
+- O que é segurança da informação?
+
+- O que é Ping?
+
+<h3>2 - Introdução a Socket e cliente TCP/UDP e Server</h3>
+
+- Biblioteca Socket
+
+- Desenvolvimento de um cliente TCP
+
+- Desenvolvimento de um cliente UDP
+
+- Desenvolvimento de um Server
+
+<h3>3 - Desenvolvimento de ferramentas - Parte 1</h3>
+
+- O que é a biblioteca Random, um hash e Multithreading?
+
+- Desenvolvendo um gerador de senhas
+
+- Desenvolvendo um comparador de Hashes
+
+- Trabalhando com Threads e IP's
+
+<h3>4 - Desenvolvimento de ferramentas - Parte 2</h3>
+
+- Desenvolvendo um gerador de Hashes
+
+- Desenvolvendo um gerador de Wordlists
+
+- Desenvolvendo um Web Scraping
+
+- Desenvolvendo um Web Crawler
+
+<h3>5 - Desenvolvimento de ferramentas - Parte 3</h3>
+
+- Desenvolvendo um verificador de telefone
+
+- Desenvolvendo um ocultador de arquivos
+
+- Desenvolvendo um verificador de IP Externo
+
+- Ferramenta Gráfica para abrir o navegador
+
+<h4>Professor: Bruno de Campos</h4>
